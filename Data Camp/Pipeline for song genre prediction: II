@@ -1,4 +1,4 @@
-teps = [("imputer", imp_mean),
+steps = [("imputer", imp_mean),
         ("knn", knn)]
 
 # Create the pipeline
